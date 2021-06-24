@@ -4,11 +4,9 @@ This repository includes some simulation examples for the "data-driven control o
 
 ## Files:
 
-1- Pole placement data-driven control (a 2nd-order academic example): DDC_ex1.rar
+1- Pole placement and optimal data-driven control (2nd-order systems): DDC_ex1&3.rar
 
 2- Optimal data-driven control (attitude control of a nadir-pointing satellite): DDC_ex2.rar
-
-3- Input-constrained data-driven control (a 2nd-order academic example): DDC_ex3.rar
 
 
 ## License(s)
